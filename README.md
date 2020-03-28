@@ -5,7 +5,6 @@
 
 ## Development server
 
-* Download the project from the Google Drive and Import the project folder from the file to the Visual   Studio Code.
 * Run npm install to install the node modules in the project folder.
 * Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically      reload if you change any of the source files.
 
@@ -24,7 +23,7 @@
 ## Outputs Expected
 
 * The page will be displayed with the field to select the file from the computer
-* The records will be displayed in the screen from the {filename}.csv once the user selects the file     from my computer
+* The records will be displayed in the screen from the {filename}.csv once the user selects the file from my computer
 * Sorting will be done when the user clicks on any header column
 * Filtering can be done by entering any issue counts ,if not exists it will show no records found
 
