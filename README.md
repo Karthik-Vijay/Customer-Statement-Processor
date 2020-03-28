@@ -1,7 +1,7 @@
-# RabobankCsvParser
+# AngularCsvParser
 
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
-* Rabobank-csv-parser application is capable of importing the attached csv-file and visualize it on the screen and can do filtering based on minimal issue count.
+* Angular-csv-parser application is capable of importing the attached csv-file and visualize it on the screen and can do filtering based on minimal issue count.
 
 ## Development server
 
